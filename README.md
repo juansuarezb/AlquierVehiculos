@@ -1,3 +1,3 @@
 # AlquierVehiculos
 
-<img src="Imagenes/BD.png" alt="BD" width="60%">
+<img src="Imagenes/BD.jfif" alt="BD" width="60%">
